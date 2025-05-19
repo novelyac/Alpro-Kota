@@ -7,7 +7,7 @@
 5. penjualan tertinggi keseluruhan (outputnya kota, bulan, nilai)
 6. penjualan terendah keseluruhan (outputnya kota, bulan, nilai)*/
 //Pembuat   	: 24060124140174-Novelya Cherina
-//Tgl Pembuatan	: 26 Februari 2025, 08:46
+//Tgl Pembuatan	: 19 Mei2025, 08:46
 
 #include <stdio.h> 
 //Input Data Tabel
